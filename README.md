@@ -42,8 +42,17 @@ The View Employee/Employee Listing page when initially rendered, shows an empty 
 Departments can be further divided into groups. A group can be thought synonymous to a team. A department can have many groups, your application must allow for the entry and configuration of a group.
 The new wireframes added, conceptualize the new View Group Page.
 
+**Group View Page**
+
+The Business Analysts have provided a wireframe mockup of a potential view group page below
 
 <img width="616" alt="screen shot 2018-06-14 at 4 13 40 pm" src="https://user-images.githubusercontent.com/27638465/41436114-b86b417a-6fee-11e8-811c-775867c390ae.png">
+
+The view group page is used to display all groups within a department. This page, when initially rendered, shows an empty result set (ie. no groups), however after a department is selected via the dropdown, the group combo box becomes enabled and the selection of groups associated with that department become available. Finally, once a search is performed, with department and group selected, a result set is rendered showing the entire list of employees associated with that group. An example wireframe, showing a hypothetical query for the “Super Heroes” group is displayed in the following diagram.
+
+
+
+
 
 
 <img width="627" alt="screen shot 2018-06-14 at 4 13 51 pm" src="https://user-images.githubusercontent.com/27638465/41436121-bbfe31f8-6fee-11e8-99f1-b04dc33c35e2.png">
