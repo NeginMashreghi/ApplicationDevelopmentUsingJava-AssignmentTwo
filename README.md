@@ -81,6 +81,7 @@ The Business Analysts have provided a wireframe mockup of a potential enter repo
 The Business Analysts have identified the need for an Attendance section, a simple and convenient way to tracks employee attendance, on a department-by-department basis. The section below further depicts what the business is thinking of, as usual wireframe mockups have been provided to help clarify and conceptualize some of the requirements desirables.
 
 **Enter Attendance**
+
 The Business Analysts have provided a wireframe mockup of a potential enter attendance page below
 
 <img width="592" alt="screen shot 2018-06-14 at 4 15 13 pm" src="https://user-images.githubusercontent.com/27638465/41436145-caf40c6e-6fee-11e8-9809-58c20dcf9494.png">
