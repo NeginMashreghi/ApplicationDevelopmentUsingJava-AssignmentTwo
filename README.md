@@ -53,9 +53,6 @@ The view group page is used to display all groups within a department. This page
 
 
 
-
-
-<img width="627" alt="screen shot 2018-06-14 at 4 13 51 pm" src="https://user-images.githubusercontent.com/27638465/41436121-bbfe31f8-6fee-11e8-99f1-b04dc33c35e2.png">
 <img width="570" alt="screen shot 2018-06-14 at 4 13 59 pm" src="https://user-images.githubusercontent.com/27638465/41436127-bf756d2e-6fee-11e8-86d5-7900a7c6566c.png">
 <img width="599" alt="screen shot 2018-06-14 at 4 14 22 pm" src="https://user-images.githubusercontent.com/27638465/41436133-c4d965c2-6fee-11e8-9f21-711f8295275a.png">
 <img width="623" alt="screen shot 2018-06-14 at 4 14 52 pm" src="https://user-images.githubusercontent.com/27638465/41436138-c806467a-6fee-11e8-8ffc-6b404d9a8dfc.png">
