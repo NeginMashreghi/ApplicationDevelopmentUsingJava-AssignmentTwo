@@ -20,7 +20,31 @@ The Business Analysts have provided a wireframe mockup of a potential view depar
 
 <img width="589" alt="screen shot 2018-06-14 at 4 13 11 pm" src="https://user-images.githubusercontent.com/27638465/41436070-a18554be-6fee-11e8-9685-c3b254cece6f.png">
 
+The Departments page, when called, simply displays all known company departments when the page is first rendered. The wireframe above merely shows an example of the possible departments that may have been entered via the departments entry page
+
+
+## Employee
+
+Companies are built by/on/with employees. The application you are required to build must also allow for the entry of employee profiles. The new wireframes added, conceptualize the new View Employee Page.
+
+**View Employee Page**
+
+The Business Analysts have provided a wireframe mockup of a view employee listing page below:
+
 <img width="612" alt="screen shot 2018-06-14 at 4 13 24 pm" src="https://user-images.githubusercontent.com/27638465/41436086-ab69c230-6fee-11e8-9a9f-f5995fb668c9.png">
+
+
+The View Employee/Employee Listing page when initially rendered, shows an empty result set (ie. no employees), however after a department is selected via the dropdown, and a search is executed, the expected result is that the entire result set of employees, within that selected department is displayed. Please refer to the next diagram for a hypothetical example of a departmental employee listing.
+
+
+
+## Group
+Departments can be further divided into groups. A group can be thought synonymous to a team. A department can have many groups, your application must allow for the entry and configuration of a group.
+The new wireframes added, conceptualize the new View Group Page.
+
+
+
+
 <img width="575" alt="screen shot 2018-06-14 at 4 13 31 pm" src="https://user-images.githubusercontent.com/27638465/41436100-b0b26418-6fee-11e8-8bfd-a6818ba84717.png">
 <img width="616" alt="screen shot 2018-06-14 at 4 13 40 pm" src="https://user-images.githubusercontent.com/27638465/41436114-b86b417a-6fee-11e8-811c-775867c390ae.png">
 <img width="627" alt="screen shot 2018-06-14 at 4 13 51 pm" src="https://user-images.githubusercontent.com/27638465/41436121-bbfe31f8-6fee-11e8-99f1-b04dc33c35e2.png">
