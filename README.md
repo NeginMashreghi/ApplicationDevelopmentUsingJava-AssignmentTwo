@@ -1,6 +1,6 @@
 # Servlet Assignment 2
 
-# Problem statement:
+## Problem statement:
 
 Having submitted and reviewed your first assignment, your manager is presently surprised in your capabilities. The management team has taken note to your strong skill-set and have overwhelmingly received excellent feedback directly from the clients on the first phase of the application.
 
@@ -10,7 +10,13 @@ Your manager continues to be under direct pressure from the company Director to 
 
 <img width="1020" alt="screen shot 2018-06-14 at 4 16 37 pm" src="https://user-images.githubusercontent.com/27638465/41436020-81c2d782-6fee-11e8-9a37-052203c5a535.png">
 
+## Department
 
+All organizations have specialized areas within them that handle specific verticals of the company’s work, called Departments. Departments such as accounting, Marketing, Planning, Application Development, IT, Support etc.… exist to house and oversee related and associated tasks. Your application must allow for the entry of the different departments within your company’s growing organization.
+
+**View Departments Page**
+
+The Business Analysts have provided a wireframe mockup of a potential view department page below:
 
 <img width="589" alt="screen shot 2018-06-14 at 4 13 11 pm" src="https://user-images.githubusercontent.com/27638465/41436070-a18554be-6fee-11e8-9685-c3b254cece6f.png">
 
