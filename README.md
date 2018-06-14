@@ -1,6 +1,6 @@
 # Servlet Assignment 2
 
-Problem statement:
+# Problem statement:
 
 Having submitted and reviewed your first assignment, your manager is presently surprised in your capabilities. The management team has taken note to your strong skill-set and have overwhelmingly received excellent feedback directly from the clients on the first phase of the application.
 
@@ -9,6 +9,9 @@ Based on the review of your first assignment however, the clients have now come 
 Your manager continues to be under direct pressure from the company Director to produce the final product that essentially encompasses all client requirements. Your manager, fully recognizes your potential, has much more confidence in you and is now allowing you to lead the remaining portion of this project to project completion and delivery.
 
 <img width="1020" alt="screen shot 2018-06-14 at 4 16 37 pm" src="https://user-images.githubusercontent.com/27638465/41436020-81c2d782-6fee-11e8-9a37-052203c5a535.png">
+
+
+
 <img width="589" alt="screen shot 2018-06-14 at 4 13 11 pm" src="https://user-images.githubusercontent.com/27638465/41436070-a18554be-6fee-11e8-9685-c3b254cece6f.png">
 
 <img width="612" alt="screen shot 2018-06-14 at 4 13 24 pm" src="https://user-images.githubusercontent.com/27638465/41436086-ab69c230-6fee-11e8-9a9f-f5995fb668c9.png">
