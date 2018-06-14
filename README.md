@@ -76,6 +76,14 @@ The Business Analysts have provided a wireframe mockup of a potential enter repo
 <img width="599" alt="screen shot 2018-06-14 at 4 14 22 pm" src="https://user-images.githubusercontent.com/27638465/41436133-c4d965c2-6fee-11e8-9f21-711f8295275a.png">
 
 
+## Attendance
 
-<img width="623" alt="screen shot 2018-06-14 at 4 14 52 pm" src="https://user-images.githubusercontent.com/27638465/41436138-c806467a-6fee-11e8-8ffc-6b404d9a8dfc.png">
+The Business Analysts have identified the need for an Attendance section, a simple and convenient way to tracks employee attendance, on a department-by-department basis. The section below further depicts what the business is thinking of, as usual wireframe mockups have been provided to help clarify and conceptualize some of the requirements desirables.
+
+**Enter Attendance**
+The Business Analysts have provided a wireframe mockup of a potential enter attendance page below
+
 <img width="592" alt="screen shot 2018-06-14 at 4 15 13 pm" src="https://user-images.githubusercontent.com/27638465/41436145-caf40c6e-6fee-11e8-9809-58c20dcf9494.png">
+
+The Enter Attendance page, when initially rendered, shows an empty result set (ie. no employees), however after a department is selected via the dropdown, and a search is executed, the expected result is that the entire result set of employees, within that selected department is displayed. To enter an attendance report, the user selects the date to be recorded (via date chooser box), then simply checks the user as present. Once the date is entered, the attendance data is committed for the configured date.
+
