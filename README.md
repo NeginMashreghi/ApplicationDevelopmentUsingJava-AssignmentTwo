@@ -88,3 +88,19 @@ The Business Analysts have provided a wireframe mockup of a potential enter atte
 
 The Enter Attendance page, when initially rendered, shows an empty result set (ie. no employees), however after a department is selected via the dropdown, and a search is executed, the expected result is that the entire result set of employees, within that selected department is displayed. To enter an attendance report, the user selects the date to be recorded (via date chooser box), then simply checks the user as present. Once the date is entered, the attendance data is committed for the configured date.
 
+
+## Database and Data Persistence
+
+You will  be equired to implement (modify) your data persistence in order to store and meet the full requirements of assignment 2. Data such as, user, departmental, employee profiles, group and now reports and attendance information, must all be stored.
+
+You and your team will be required to construct and provide a complete and updated sql script (database.sql) to assist in the creation of your entire applications database schema. The schema design will once again be largely of the development teams (aka your teams) responsibility. Please ensure that your sql script seeds any initial data (if necessary) while being executed.
+
+Naturally, you will be required to submit the completed database.sql that will ultimately construct and seed your backend database for your proposed solution, as part of your submission (please review assignment submission guidelines section below for more details).
+
+## MVC Architecture and JSP Requirements
+
+Now that you and your team are familiar with the jsp technology and MVC architecture, you will be required to remove all html files from your existing project, utilizing jsp’s (wherever deemed necessary) and design your solution based on an MVC design. Please note and for clarity, jsp, java servlets and java should form the basis of the technologies associated with assignment solution.
+
+## Validation Requirements
+
+All pages under the Login page should continue to not be visible/accessible to users who either have not authenticated or failed to authenticate. If a non-authenticated user attempts to access such pages, they should be directed to the login page with an appropriate error message displayed.
