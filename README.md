@@ -69,8 +69,13 @@ Lastly, each criterion is attributed a maximum weight of between 1-5.
 Once a report template is created successfully, the template becomes available for selection when entering a report.
 
 
+## Enter Group Report – Example
 
+The Business Analysts have provided a wireframe mockup of a potential enter report page, for an example group, has been provided below.
 
 <img width="599" alt="screen shot 2018-06-14 at 4 14 22 pm" src="https://user-images.githubusercontent.com/27638465/41436133-c4d965c2-6fee-11e8-9f21-711f8295275a.png">
+
+
+
 <img width="623" alt="screen shot 2018-06-14 at 4 14 52 pm" src="https://user-images.githubusercontent.com/27638465/41436138-c806467a-6fee-11e8-8ffc-6b404d9a8dfc.png">
 <img width="592" alt="screen shot 2018-06-14 at 4 15 13 pm" src="https://user-images.githubusercontent.com/27638465/41436145-caf40c6e-6fee-11e8-9809-58c20dcf9494.png">
