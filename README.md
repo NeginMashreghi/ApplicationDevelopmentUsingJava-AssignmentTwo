@@ -51,9 +51,26 @@ The Business Analysts have provided a wireframe mockup of a potential view group
 The view group page is used to display all groups within a department. This page, when initially rendered, shows an empty result set (ie. no groups), however after a department is selected via the dropdown, the group combo box becomes enabled and the selection of groups associated with that department become available. Finally, once a search is performed, with department and group selected, a result set is rendered showing the entire list of employees associated with that group. An example wireframe, showing a hypothetical query for the “Super Heroes” group is displayed in the following diagram.
 
 
+## Reports
 
+The new wireframes added, conceptualize the new Create Report Template, Enter Report and View Report Pages. To help clarify these requirements, examples of each of these new pages, with sample entry data has been provided.
+
+**Create Report Template - Example**
+
+The Business Analysts have provided a wireframe mockup of a potential create report template page below
+Figure 6:
 
 <img width="570" alt="screen shot 2018-06-14 at 4 13 59 pm" src="https://user-images.githubusercontent.com/27638465/41436127-bf756d2e-6fee-11e8-86d5-7900a7c6566c.png">
+
+The create report template page is used to create a report template, that can later be selected to generate a report. The create report template page, has a “Details” area and three sections (Sections I-III).
+The details section contains three mandatory fields, namely, a “Report Template” text field, an unmodifiable date field (automatically populated with current date), and a department combo dropdown that is populated with the list of known departments.
+The remaining sections (Sections I-III) provide a text area each, where the user can enter a name to name each section uniquely. Section I specifically, allows for only 5 criteria’s (text fields) to be entered at a maximum. A criterion is simply an area where the user to enter in a text criterion used for evaluation. Section II-III on the other hand, allow for only three criteria each, and again at a maximum. A minimum of one criteria much be entered in each Section (I-III) in order for the report template to be successfully created.
+Lastly, each criterion is attributed a maximum weight of between 1-5.
+Once a report template is created successfully, the template becomes available for selection when entering a report.
+
+
+
+
 <img width="599" alt="screen shot 2018-06-14 at 4 14 22 pm" src="https://user-images.githubusercontent.com/27638465/41436133-c4d965c2-6fee-11e8-9f21-711f8295275a.png">
 <img width="623" alt="screen shot 2018-06-14 at 4 14 52 pm" src="https://user-images.githubusercontent.com/27638465/41436138-c806467a-6fee-11e8-8ffc-6b404d9a8dfc.png">
 <img width="592" alt="screen shot 2018-06-14 at 4 15 13 pm" src="https://user-images.githubusercontent.com/27638465/41436145-caf40c6e-6fee-11e8-9809-58c20dcf9494.png">
