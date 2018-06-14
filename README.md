@@ -43,10 +43,9 @@ Departments can be further divided into groups. A group can be thought synonymou
 The new wireframes added, conceptualize the new View Group Page.
 
 
-
-
-<img width="575" alt="screen shot 2018-06-14 at 4 13 31 pm" src="https://user-images.githubusercontent.com/27638465/41436100-b0b26418-6fee-11e8-8bfd-a6818ba84717.png">
 <img width="616" alt="screen shot 2018-06-14 at 4 13 40 pm" src="https://user-images.githubusercontent.com/27638465/41436114-b86b417a-6fee-11e8-811c-775867c390ae.png">
+
+
 <img width="627" alt="screen shot 2018-06-14 at 4 13 51 pm" src="https://user-images.githubusercontent.com/27638465/41436121-bbfe31f8-6fee-11e8-99f1-b04dc33c35e2.png">
 <img width="570" alt="screen shot 2018-06-14 at 4 13 59 pm" src="https://user-images.githubusercontent.com/27638465/41436127-bf756d2e-6fee-11e8-86d5-7900a7c6566c.png">
 <img width="599" alt="screen shot 2018-06-14 at 4 14 22 pm" src="https://user-images.githubusercontent.com/27638465/41436133-c4d965c2-6fee-11e8-9f21-711f8295275a.png">
